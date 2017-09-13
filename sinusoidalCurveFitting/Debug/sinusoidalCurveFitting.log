@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\matt\documents\visual studio 2015\projects\sinusoidalcurvefitting\sinusoidalcurvefitting\main.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\matt\documents\visual studio 2015\projects\sinusoidalcurvefitting\sinusoidalcurvefitting\main.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\matt\documents\visual studio 2015\projects\sinusoidalcurvefitting\sinusoidalcurvefitting\main.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\matt\documents\visual studio 2015\projects\sinusoidalcurvefitting\sinusoidalcurvefitting\main.cpp(34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\matt\documents\visual studio 2015\projects\sinusoidalcurvefitting\sinusoidalcurvefitting\main.cpp(36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\matt\documents\visual studio 2015\projects\sinusoidalcurvefitting\sinusoidalcurvefitting\main.cpp(37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\matt\documents\visual studio 2015\projects\sinusoidalcurvefitting\sinusoidalcurvefitting\main.cpp(38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\matt\documents\visual studio 2015\projects\sinusoidalcurvefitting\sinusoidalcurvefitting\main.cpp(60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\matt\documents\visual studio 2015\projects\sinusoidalcurvefitting\sinusoidalcurvefitting\main.cpp(63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  sinusoidalCurveFitting.vcxproj -> C:\Users\Matt\Documents\Visual Studio 2015\Projects\sinusoidalCurveFitting\Debug\sinusoidalCurveFitting.exe
+  sinusoidalCurveFitting.vcxproj -> C:\Users\Matt\Documents\Visual Studio 2015\Projects\sinusoidalCurveFitting\Debug\sinusoidalCurveFitting.pdb (Full PDB)
